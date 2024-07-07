@@ -1,17 +1,14 @@
-# dana_kedua
+1. Menu Home Screen
+  ![WhatsApp Image 2024-07-07 at 22 36 08_4ce97790](https://github.com/221110891ReganEdricOnggatta/TampilanEWallet/assets/165289168/7eddc3cd-1c81-4588-950d-64bee719158e)
 
-A new Flutter project.
+2. Topup Screen
+  ![WhatsApp Image 2024-07-07 at 22 36 07_d2e1a3c3](https://github.com/221110891ReganEdricOnggatta/TampilanEWallet/assets/165289168/8cff8833-8ad1-42de-91be-7275be5ecf51)
 
-## Getting Started
+3. Profile Screen
+ ![WhatsApp Image 2024-07-07 at 22 36 07_fcab6cb5](https://github.com/221110891ReganEdricOnggatta/TampilanEWallet/assets/165289168/39839e4c-7a35-41dc-b156-58b7ab8341e1)
 
-This project is a starting point for a Flutter application.
+4. Register Screen
+  ![WhatsApp Image 2024-07-07 at 22 36 08_7e52ad57](https://github.com/221110891ReganEdricOnggatta/TampilanEWallet/assets/165289168/354ae98c-71d7-4715-8dac-6a03024db15c)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# TampilanEWallet
+5. Drawer Screen
+  ![WhatsApp Image 2024-07-07 at 22 36 07_c3a93b15](https://github.com/221110891ReganEdricOnggatta/TampilanEWallet/assets/165289168/fe6f8c8e-7ed5-4527-af95-9f2a8c952116)
