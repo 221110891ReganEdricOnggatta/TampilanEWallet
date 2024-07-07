@@ -13,3 +13,5 @@
 5. Menu history transaksi
    ![WhatsApp Image 2024-07-07 at 22 29 56_fd919a62](https://github.com/221110891ReganEdricOnggatta/TampilanEWallet/assets/165750935/114ee510-578c-4411-a39a-a348b64725e2)
 
+6. Menu Setting
+   ![WhatsApp Image 2024-07-07 at 22 39 10_6dae8313](https://github.com/221110891ReganEdricOnggatta/TampilanEWallet/assets/165750935/86fd55f3-9455-4738-a1ce-dbd93e14dd2e)
